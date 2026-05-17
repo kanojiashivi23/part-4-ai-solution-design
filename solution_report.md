@@ -279,4 +279,3 @@ ResNet-50 with transfer learning (fine-tuned on labelled hospital imaging data).
 
 ---
 
-*Report prepared for Part 4 – AI Business Solutions Module. All KPI baselines sourced from `business_kpi_sample.csv`. Domain and model references sourced from `ai_usecase_reference_catalog.csv`.*
