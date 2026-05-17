@@ -1,11 +1,7 @@
 # AI Solution Design Report
 ## Domain: Healthcare — Medical Image Triage
 
-**Module:** Part 4 – AI Solution Design  
-**Prepared by:** AI Business Solutions Student  
-**Date:** May 2026
 
----
 
 ## Task 1: Business Domain
 
